@@ -1,0 +1,82 @@
+.imagestyle {
+  width: 70px;
+  height: 70px;
+}
+.hrtag {
+  border-width: 40px;
+  border-color: rgb(189, 180, 180);
+}
+.hrtag2 {
+  border-width: 5px;
+  border-color: rgb(189, 180, 180);
+}
+.contactus-heading1 {
+  font-family: "roboto";
+  font-size: 26px;
+  font-weight: bolder;
+  margin-top: 25px;
+}
+.contactus-para {
+  font-family: "roboto";
+  font-size: 15px;
+}
+.contactctus-container {
+  text-align: center;
+}
+.contactus-heading2 {
+  font-family: "roboto";
+  font-size: 20px;
+  font-weight: bolder;
+}
+.contactus-para {
+  font-family: "roboto";
+  font-size: 17px;
+  color: rgb(170, 98, 60);
+}
+.icon1 {
+  border-radius: 100%;
+  width: 20px;
+  margin-left: 20px;
+}
+.sociallogos {
+  margin-left: 465px;
+  margin-bottom: 50px;
+}
+.logofooterdiv {
+  margin-left: 370px;
+  margin-top: 30px;
+  text-align: center;
+}
+.logofootertext {
+  font-size: 25px;
+  font-family: "roboto";
+  font-weight: bold;
+  color: white;
+}
+.footerpara {
+  font-family: "roboto";
+  font-weight: bold;
+  color: white;
+  margin-top: 30px;
+  margin-left: 45px;
+}
+.footerlogostyle {
+  width: 150px;
+  height: 150px;
+  margin-right: 30px;
+  margin-bottom: 5px;
+}
+.imagestyle2 {
+  width: 60px;
+  height: 40px;
+  margin-left: 5px;
+}
+
+.footermaindiv {
+  background-color: rgb(75, 72, 72);
+}
+.icon {
+  border-radius: 100%;
+  width: 20px;
+  margin-left: 15px;
+}
